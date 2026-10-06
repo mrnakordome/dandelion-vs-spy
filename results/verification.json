@@ -1,0 +1,762 @@
+[
+ {
+  "run": "dand_p0.1_seed1",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.997,
+  "overhead_ms_median": 1.217,
+  "overhead_ms_p99": 13.265,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.1_seed2",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.001,
+  "overhead_ms_median": 0.871,
+  "overhead_ms_p99": 2.734,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.1_seed3",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.0,
+  "overhead_ms_median": 1.214,
+  "overhead_ms_p99": 3.745,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.1_seed4",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.997,
+  "overhead_ms_median": 1.268,
+  "overhead_ms_p99": 3.487,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.1_seed5",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.996,
+  "overhead_ms_median": 0.926,
+  "overhead_ms_p99": 2.371,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.5_seed1",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.001,
+  "overhead_ms_median": 1.197,
+  "overhead_ms_p99": 2.351,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 18,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.5_seed2",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.998,
+  "overhead_ms_median": 0.88,
+  "overhead_ms_p99": 2.291,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 15,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.5_seed3",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.0,
+  "overhead_ms_median": 1.158,
+  "overhead_ms_p99": 12.886,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 19,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.5_seed4",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.998,
+  "overhead_ms_median": 1.217,
+  "overhead_ms_p99": 2.453,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 22,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.5_seed5",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.002,
+  "overhead_ms_median": 0.785,
+  "overhead_ms_p99": 2.244,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 20,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.9_seed1",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.0,
+  "overhead_ms_median": 1.227,
+  "overhead_ms_p99": 2.316,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 133,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.9_seed2",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.998,
+  "overhead_ms_median": 0.965,
+  "overhead_ms_p99": 2.306,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 128,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.9_seed3",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.999,
+  "overhead_ms_median": 1.0,
+  "overhead_ms_p99": 3.306,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 116,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.9_seed4",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.002,
+  "overhead_ms_median": 1.201,
+  "overhead_ms_p99": 2.309,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 129,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "dand_p0.9_seed5",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.997,
+  "overhead_ms_median": 0.905,
+  "overhead_ms_p99": 2.238,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 126,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "flood_seed1",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.0,
+  "overhead_ms_median": 0.968,
+  "overhead_ms_p99": 3.602,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "flood_seed2",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.0,
+  "overhead_ms_median": 0.956,
+  "overhead_ms_p99": 2.304,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "flood_seed3",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.0,
+  "overhead_ms_median": 0.808,
+  "overhead_ms_p99": 2.401,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "flood_seed4",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.999,
+  "overhead_ms_median": 0.964,
+  "overhead_ms_p99": 2.321,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "flood_seed5",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "none",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 0.999,
+  "overhead_ms_median": 0.685,
+  "overhead_ms_p99": 2.203,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.1_seed1",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 2.001,
+  "overhead_ms_median": 1.179,
+  "overhead_ms_p99": 2.893,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.1_seed2",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.998,
+  "overhead_ms_median": 1.258,
+  "overhead_ms_p99": 3.932,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.1_seed3",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.999,
+  "overhead_ms_median": 1.231,
+  "overhead_ms_p99": 3.054,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.1_seed4",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.999,
+  "overhead_ms_median": 1.186,
+  "overhead_ms_p99": 3.752,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.1_seed5",
+  "mode": "dandelion",
+  "p": 0.1,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.996,
+  "overhead_ms_median": 1.186,
+  "overhead_ms_p99": 3.084,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.5_seed1",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 2.0,
+  "overhead_ms_median": 1.023,
+  "overhead_ms_p99": 4.159,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 9,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.5_seed2",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.999,
+  "overhead_ms_median": 1.249,
+  "overhead_ms_p99": 2.838,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 17,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.5_seed3",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.998,
+  "overhead_ms_median": 1.059,
+  "overhead_ms_p99": 4.28,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 10,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.5_seed4",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 2.0,
+  "overhead_ms_median": 1.189,
+  "overhead_ms_p99": 2.98,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 20,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.5_seed5",
+  "mode": "dandelion",
+  "p": 0.5,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 2.0,
+  "overhead_ms_median": 1.172,
+  "overhead_ms_p99": 3.347,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 14,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.9_seed1",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.999,
+  "overhead_ms_median": 1.233,
+  "overhead_ms_p99": 2.419,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 121,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.9_seed2",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.998,
+  "overhead_ms_median": 0.945,
+  "overhead_ms_p99": 2.818,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 125,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.9_seed3",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 2.003,
+  "overhead_ms_median": 1.278,
+  "overhead_ms_p99": 2.695,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 120,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.9_seed4",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.998,
+  "overhead_ms_median": 1.02,
+  "overhead_ms_p99": 2.949,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 128,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5dand_p0.9_seed5",
+  "mode": "dandelion",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.998,
+  "overhead_ms_median": 1.245,
+  "overhead_ms_p99": 11.194,
+  "duplicates_dropped": 4600,
+  "stem_loops_broken": 113,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5flood_seed1",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 2.0,
+  "overhead_ms_median": 1.011,
+  "overhead_ms_p99": 3.517,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5flood_seed2",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 2.0,
+  "overhead_ms_median": 1.003,
+  "overhead_ms_p99": 3.919,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5flood_seed3",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 2.0,
+  "overhead_ms_median": 1.015,
+  "overhead_ms_p99": 3.43,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5flood_seed4",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.999,
+  "overhead_ms_median": 0.998,
+  "overhead_ms_p99": 3.896,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ },
+ {
+  "run": "p5flood_seed5",
+  "mode": "flood",
+  "p": 0.9,
+  "spy_delay": "max",
+  "packets": 200,
+  "coverage_min": 1.0,
+  "jitter_ratio_range": [
+   0.8,
+   1.2
+  ],
+  "spy_delay_ratio_mean": 1.999,
+  "overhead_ms_median": 0.891,
+  "overhead_ms_p99": 2.995,
+  "duplicates_dropped": 9000,
+  "stem_loops_broken": 0,
+  "ok": true,
+  "problems": []
+ }
+]
